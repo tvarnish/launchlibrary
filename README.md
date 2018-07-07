@@ -1,6 +1,12 @@
 # launchlibrary
 A Python wrapper for the wonderful Launch Library API (see https://launchlibrary.net/ for further details)
 
+<p align="center">
+  <img width="500" src="https://i.imgur.com/02Mo0ND.png">
+</p>
+
+*The logo to the right of the project name was made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/), and is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)*
+
 ## What can I do with the Launch Library API?
 The [Launch Library API](https://launchlibrary.net/), is a "repository of rocket launch information". You can fetch information about upcoming launches, rockets, missions, and launch locations/pads.
 

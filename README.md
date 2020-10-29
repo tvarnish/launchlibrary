@@ -1,3 +1,5 @@
+> The original Launch Library API will be closing down on December 31, 2020. Starting November 1, it's successor, Launch Library 2, will take over. This wrapper has not been updated for Launch Library 2, and as such will not work. Unfortunately, I don't have the time to work on this wrapper right now so I've archived the project.
+
 # launchlibrary
 A Python wrapper for the wonderful Launch Library API (see https://launchlibrary.net/ for further details)
 
